@@ -1,4 +1,4 @@
-EFT-Fence-autotrading 0.1
+EFT Fence autotrading
 
 Need -- monitor 1920x1080
 
